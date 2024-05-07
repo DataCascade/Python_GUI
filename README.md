@@ -1,2 +1,2 @@
 # Python_GUI
-Designed and developed an intuitive and user-friendly GUI application using Streamlit framework to enable users to input customer data and receive predictions regarding campaign outcomes. Python, Streamlit, scikit-learn, pandas, NumPy, matplotlib, machine learning algorithms were used to create a GUI.
+Crafted a user-friendly GUI application using the Streamlit framework, enabling seamless input of customer data and instant prediction of campaign outcomes. Employed Python alongside Streamlit, scikit-learn, pandas, NumPy, matplotlib, and diverse machine learning algorithms to design and implement the GUI.
